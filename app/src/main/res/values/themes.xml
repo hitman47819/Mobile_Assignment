@@ -1,9 +1,9 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Base.Theme.Mobileassignment" parent="Theme.Material3.DayNight.NoActionBar">
+    <style name="Base.Theme.MobileAssigment" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
-    <style name="Theme.Mobileassignment" parent="Base.Theme.Mobileassignment" />
+    <style name="Theme.MobileAssigment" parent="Base.Theme.MobileAssigment" />
 </resources>
